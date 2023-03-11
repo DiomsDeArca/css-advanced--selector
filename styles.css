@@ -1,0 +1,35 @@
+:root {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 10px;
+}
+/* 
+ 
+>
++
+~
+
+:focus
+:hover
+:active
+:link
+:visited
+
+:root
+:first-child
+::first-line
+:empty
+:nth-child()
+
+::marker
+::first-letter
+::first-line
+::before
+::after
+::selection
+
+[src]
+[alt]
+[href] 
+
+*/
